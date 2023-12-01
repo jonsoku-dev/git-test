@@ -1,2 +1,2 @@
-console.log('index.js')
+console.log('jonsoku.js')
 console.log('wow')
